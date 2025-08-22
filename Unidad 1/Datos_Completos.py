@@ -1,0 +1,5 @@
+nombre = input ("Por Favor ingrese su nombre : ")
+apellido = input ("Por Favor ingrese su apellido: ")
+edad = input ("Por Favor ingrese su edad: ")
+residencia = input ("Por Favor ingrese su lugar de Residencia: ")
+print(f"Soy {nombre} {apellido} tengo {edad} años y vivo en {residencia}")
